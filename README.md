@@ -4,7 +4,7 @@
 
 🔧 Skills: React • Angular • Node.js • TypeScript • AWS • TDD • UX/UI  
 📂 Private enterprise and government projects (available upon request)  
-Several enterprise and government projects are private. I’m happy to discuss them in an interview and share code samples confidentially.
+Several enterprise and government projects are private. I’m happy to discuss them in an interview confidentially.
 
 🔗 [CV]([ENG - Antsa Herilala Rakotomananjo Full Stack Developer  8+ years.pdf](https://github.com/user-attachments/files/21161955/ENG.-.Antsa.Herilala.Rakotomananjo.Full.Stack.Developer.8%2B.years.pdf)) • [LinkedIn](https://www.linkedin.com/in/antsa-herilala-rakotomananjo-aa40a0142/) • [Email: herilala.antsa@gmail.com]
 
