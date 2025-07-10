@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @HerilalaAntsa
-(Sorry I'd worked on another git profile during a moment)
-- 👀 I’m interested in React JS / React Native, Javascript
-- 🌱 I’m currently learning to all around React as I can
-- 💞️ I’m looking to collaborate Full Stack Web Apps
-- 📫 How to reach me:
-        - [https://www.linkedin.com/in/antsa-herilala-rakotomananjo-aa40a0142/]
+# Hi there, I'm Antsa 👋
 
- - ⚡ Fun fact: My passion is soccer 🤯
+**Senior Full‑Stack Developer** based in Canada with over 8 years of hands‑on experience in React, Angular, Vue, Node.js, and TypeScript.
+
+🔧 Skills: React • Angular • Node.js • TypeScript • AWS • TDD • UX/UI  
+📂 Private enterprise and government projects (available upon request)  
+🔗 [CV]([ENG - Antsa Herilala Rakotomananjo Full Stack Developer  8+ years.pdf](https://github.com/user-attachments/files/21161955/ENG.-.Antsa.Herilala.Rakotomananjo.Full.Stack.Developer.8%2B.years.pdf)) • [LinkedIn](https://www.linkedin.com/in/antsa-herilala-rakotomananjo-aa40a0142/) • [Email: herilala.antsa@gmail.com]
+
